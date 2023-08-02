@@ -186,7 +186,7 @@ class _HomePageState extends State<HomePage> {
                               children: <Widget>[
                                 makeVideo(image: 'assets/images/pic9.jpg'),
                                 makeVideo(image: 'assets/images/pic3.jpg'),
-                                makeVideo(image: 'assets/images/pic7.jpg'),
+                                makeVideo(image: 'assets/images/pic1.jpg'),
                               ],
                             ),
                           ),
